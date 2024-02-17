@@ -1,0 +1,10 @@
+{
+	"name": "Hucrenin_Organelleri",
+	"short_name": "Hucrenin_Organelleri",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
